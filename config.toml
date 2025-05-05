@@ -4,3 +4,6 @@ theme = "monokai_pro_spectrum"
 insert = "bar"
 normal = "block"
 select = "underline"
+
+[editor.file-picker]
+max-depth = 2
